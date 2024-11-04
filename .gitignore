@@ -41,3 +41,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+android/
+ios/
+build/
+macos/
+windows/
+test/
+web/
+linux/
+pubspec.lock
+final_timebrew_app.iml
+analysis_options.yaml
+pubspec.lock
+analysis_options.yaml
