@@ -1,6 +1,6 @@
 # TimeBrew App
 
-TimeBrew is an open-source, minimalist timer app designed for focused productivity sessions. Users can choose from various drinks (like coffee, beer, or water) and watch as the drink gradually depletes to visualize the passage of time. Built with Flutter, TimeBrew features customizable themes, smooth animations, and an intuitive design tailored for studying techniques like the Pomodoro method. Available on the app store for iPhone and iPad - https://apps.apple.com/gb/app/timebrew/id6737444597. 
+TimeBrew is an open-source, minimalist timer app designed for focused productivity sessions, it is available on the app store for iPhone and iPad in 175 countries- https://apps.apple.com/gb/app/timebrew/id6737444597. Users can choose from various drinks (like coffee, beer, or water) and watch as the drink gradually depletes to visualize the passage of time. Built with Flutter, TimeBrew features customizable themes, smooth animations, and an intuitive design tailored for studying techniques like the Pomodoro method. 
 
 ## Features
 - **Interactive Timer**: Set a timer, choose a drink, and watch it gradually empty, showing the time left in a visually engaging way.
