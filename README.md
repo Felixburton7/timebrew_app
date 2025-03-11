@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TimeBrew Logo](assets/images/appstore.png)
+<img src="assets/images/appstore.png" alt="TimeBrew Logo" width="150">
 
 [![Available on App Store](https://img.shields.io/badge/Download-App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/timebrew/id6737444597)
 [![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -148,6 +148,21 @@ TimeBrew is an open-source project, and we welcome your contributions! Here are 
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
+## 🗺️ Roadmap
+
+```mermaid
+gantt
+    title TimeBrew Development Roadmap
+    dateFormat  YYYY-MM-DD
+    section Core Features
+    Android Version           :2023-06-01, 90d
+    Background Timer          :2023-07-01, 60d
+    Lock Screen Widget        :2023-08-15, 45d
+    section Enhancements
+    Additional Themes         :2023-07-15, 30d
+    Custom Sounds             :2023-08-01, 45d
+    Statistics Dashboard      :2023-09-01, 60d
+```
 
 ## 📞 Contact
 
