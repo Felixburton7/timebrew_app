@@ -148,21 +148,6 @@ TimeBrew is an open-source project, and we welcome your contributions! Here are 
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 🗺️ Roadmap
-
-```mermaid
-gantt
-    title TimeBrew Development Roadmap
-    dateFormat  YYYY-MM-DD
-    section Core Features
-    Android Version           :2023-06-01, 90d
-    Background Timer          :2023-07-01, 60d
-    Lock Screen Widget        :2023-08-15, 45d
-    section Enhancements
-    Additional Themes         :2023-07-15, 30d
-    Custom Sounds             :2023-08-01, 45d
-    Statistics Dashboard      :2023-09-01, 60d
-```
 
 ## 📞 Contact
 
